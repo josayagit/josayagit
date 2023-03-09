@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josaya Mokgobu</h1>
-<h3 align="center">A second year software developer from Johannesburg South Africa</h3>
+<h3 align="center">A Third year software developer from Johannesburg South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josayagit&label=Profile%20views&color=0e75b6&style=flat" alt="josayagit" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a **Software Development student at Rosebank college**
 
-- 🌱 I’m currently learning **TypeScript, Python**
+- 🌱 I’m currently learning **Kotlin Android App Development, Oracle Database**
 
 - 👯 I’m looking to collaborate on **any project web or software development as well as Web design(Page Mock Ups, Wireframes etc)**
 
